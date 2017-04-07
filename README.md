@@ -4,7 +4,6 @@
 #### Table of Contents
 
 1. [Description](#description)
-1. [Setup - The basics of getting started with syslogng](#setup)
 1. [Usage - Configuration options and additional functionality](#usage)
 1. [Reference - An under-the-hood peek at what the module is doing and how](#reference)
 1. [Limitations - OS compatibility, etc.](#limitations)
@@ -13,8 +12,6 @@
 ## Description
 
 Install syslog-ng and configure it to forward logs to a network server
-
-## Setup
 
 ## Usage
 See reference and examples
