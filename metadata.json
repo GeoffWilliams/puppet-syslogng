@@ -1,0 +1,15 @@
+{
+  "name": "geoffwilliams-syslogng",
+  "version": "0.1.0",
+  "author": "geoffwilliams",
+  "summary": "Configure syslog-ng client",
+  "license": "Apache-2.0",
+  "source": "https://github.com/GeoffWilliams/puppet-syslogng",
+  "project_page": "https://github.com/GeoffWilliams/puppet-syslogng",
+  "issues_url": "https://github.com/GeoffWilliams/puppet-syslogng/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":"4.16.0"},
+    {"name":"geoffwilliams-filemagic","version_requirement":"0.3.0"}
+  ],
+  "data_provider": null
+}
